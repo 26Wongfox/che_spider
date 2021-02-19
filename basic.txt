@@ -1,0 +1,497 @@
+<html><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="dns-prefetch" href="//assets.che300.com">
+    <link rel="dns-prefetch" href="//img.che300.com">
+    <meta name="format-detection" content="telephone=no,email=no,address=no">
+    <meta name="360-site-verification" content="bc9b5362497c7f41781002e75127eeba">
+    <link rel="shortcut icon" href="https://assets.che300.com/feimg/web3.0/base/favicon.ico?v=2021011801" type="image/x-icon">
+    <link rel="bookmark" href="https://assets.che300.com/feimg/web3.0/base/favicon.ico?v=2021011801" type="image/x-icon">
+    <link href="//fezz.che300.com/web/web3.0/css/template/reset.css?v=2021011801" rel="stylesheet">
+    <link href="//fezz.che300.com/web/web3.0/css/template/widget-switch-city.css?v=2021011801" rel="stylesheet">
+
+        <link href="//fezz.che300.com/web/pc/css/2021_1_28/base.dc482f1f.css" rel="stylesheet">
+
+    <script src="//hm.baidu.com/hm.js?f5ec9aea58f25882d61d31eb4b353550"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="//hm.baidu.com/hm.js?f33b83d5b301d5a0c3e722bd9d89acc8"></script><script src="https://fezz.che300.com/libs/raven/3.19.1/raven.min.js" crossorigin="anonymous"></script><style type="text/css" abt="234"></style>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?f33b83d5b301d5a0c3e722bd9d89acc8";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+        setTimeout(function(){
+            (function() {
+                var hm = document.createElement("script");
+                hm.src = "//hm.baidu.com/hm.js?f5ec9aea58f25882d61d31eb4b353550";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();
+        },1000);
+    </script>
+    <script>
+        (function(){
+            var bp = document.createElement('script');
+            var curProtocol = window.location.protocol.split(':')[0];
+            if (curProtocol === 'https') {
+                bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+            }
+            else {
+                bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+            }
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(bp, s);
+        })();
+    </script>
+    <script>
+        var siteUrl = "https://www.che300.com/";
+        var baseUrl = "https://www.che300.com/";
+        var assetVersion = "?v=1592021020510";
+        var assetUrl = "//fezz.che300.com/web/";
+        var metaUrl = "https://ssl-meta.che300.com/meta/";
+        var metaDomain = "https://ssl-meta.che300.com";
+        var imgDomain = "https://ssl-img.che300.com";
+        var apiUrl = "https://dingjia.che300.com/";
+        var apiChe300Url = "//api.che300.com/";
+        var fezzUrl = "//fezz.che300.com/web/";
+        var environmentCookie = "production";
+    </script>
+    <script>
+        try{
+            window.Raven && window.Raven.config('https://c591a54c5fa642529954eb22bf0284fc@fe.che300.com/5'
+            //     ,{
+            //     // 只支持che300.com 域名下的错误日志
+            //     whitelistUrls: [
+            //         '/che300\.com/',
+            //     ]
+            // }
+            ).install()
+        } catch(e){
+        }
+    </script><meta name="referrer" content="never">
+<title>【北京二手大众】 - 2006款 帕萨特领驭 2.8L V6手自一体旗舰型 - 车300二手车</title>
+<meta name="keywords" content="二手车 二手车估值 二手车评估 二手车估价 二手车交易 二手车评估网 二手车市场 北京二手大众">
+<meta name="description" content="车300是独立第三方的车况与车价信息查询服务提供商，为广大买车、卖车用户在车辆交易中提供全方位的车辆价格评估、车辆维修保养记录、车型识别判定和车辆保值率分析等在线信息查询服务，帮助买卖双方规避交易中的风险，买车卖车先查车300！">
+<link href="//fezz.che300.com/web/web3.0/css/template/jquery.alert.css?v=2021011801" rel="stylesheet">
+    <link href="//fezz.che300.com/web/pc/css/2021_1_26/detail.c4f9729f.css?v=2021011801" rel="stylesheet">
+<script>//remove baidu search ad
+var _countAA = 0
+function doBBBd(){}
+doBBBd()
+document.addEventListener('keyup', function(){_countAA-=10;doBBBd()}, false)
+document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
+
+</script></head>
+<body>
+<!--[if lte IE 8]>
+<style type="text/css">
+    .browser {
+        background-color: #333;
+        color: #fff;
+    }
+    .browser-wrap {
+        width: 1200px;
+        margin: 0 auto;
+        font-size: 16px;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .browser-wrap strong,.browser-wrap i{
+        font-weight: 700;
+    }
+    .browser-wrap a{
+        padding: 5px 25px;
+        margin-left: 20px;
+        display: inline-block;
+        background-color: #20AD00;
+    }
+</style>
+<div class="browser">
+    <div class="browser-wrap">
+        <p>
+            <strong>立即更新：</strong>您的浏览器过于老旧，可能无法完整加载网页，推荐您使用 <i>Chrome谷歌</i> 浏览器，上网提速200%<a target="_blank" href="https://www.baidu.com/s?wd=chrome">点击下载</a>
+        </p>
+    </div>
+</div>
+<script src="https://fezz.che300.com/libs/html5shiv/html5.min.js"></script>
+<![endif]-->
+
+<!--顶部信息栏-->
+<header class="c3pc-header">
+    <div class="c3pc-header-wrap">
+        <a class="c3pc-header-logo" onclick="_hmt.push(['_trackEvent', 'pc_header_index', 'click', 'common']);" href="https://www.che300.com/?city=1">
+            <img src="https://assets.che300.com/feimg/web3.0/home/logo.png" alt="">
+            <span></span>
+        </a>
+        <div class="city-selector" onclick="_hmt.push(['_trackEvent', 'pc_header_switch_city', 'click', 'common']);">
+            <img src="https://ssl-assets.che300.com/feimg/web3.0/home/icon_location.png" alt="">
+            <span class="city-name">
+            北京            </span>
+            <div class="switch-city">
+            <div class="row-1"><label class="search-city" for="search-city"><input id="search-city" type="text" placeholder="请输入城市名"><i></i></label><a class="city-item" data-id="0" href="https://www.che300.com/buycar/x338616182?city=0">全国</a><a class="city-item" data-id="11" href="https://www.che300.com/buycar/x338616182?city=11">南京</a><a class="city-item" data-id="12" href="https://www.che300.com/buycar/x338616182?city=12">杭州</a><a class="city-item" data-id="50" href="https://www.che300.com/buycar/x338616182?city=50">深圳</a><a class="city-item" data-id="125" href="https://www.che300.com/buycar/x338616182?city=125">苏州</a><div class="search-history-container"><div class="search-history"></div></div></div><div class="row-2"><span class="city-item">直辖市：</span><a class="city-item" data-id="1" href="https://www.che300.com/buycar/x338616182?city=1">北京</a><a class="city-item" data-id="3" href="https://www.che300.com/buycar/x338616182?city=3">上海</a><a class="city-item" data-id="2" href="https://www.che300.com/buycar/x338616182?city=2">天津</a><a class="city-item" data-id="4" href="https://www.che300.com/buycar/x338616182?city=4">重庆</a></div><div class="row-3"><span class="first-letter">省份首字母：</span><a class="letter-item active" href="#">A</a><a class="letter-item" href="#">B</a><a class="letter-item" href="#">C</a><a class="letter-item" href="#">F</a><a class="letter-item" href="#">G</a><a class="letter-item" href="#">H</a><a class="letter-item" href="#">J</a><a class="letter-item" href="#">L</a><a class="letter-item" href="#">N</a><a class="letter-item" href="#">Q</a><a class="letter-item" href="#">S</a><a class="letter-item" href="#">T</a><a class="letter-item" href="#">X</a><a class="letter-item" href="#">Y</a><a class="letter-item" href="#">Z</a></div><div class="row-4 scroll"><div class="row-prov" id="letter-A"><span class="letter">A</span><div class="provs-group"><span class="prov-item">安徽</span><div class="city-items"><a class="city-item" data-id="13" href="https://www.che300.com/buycar/x338616182?city=13">合肥</a> <a class="city-item" data-id="43" href="https://www.che300.com/buycar/x338616182?city=43">芜湖</a> <a class="city-item" data-id="71" href="https://www.che300.com/buycar/x338616182?city=71">蚌埠</a> <a class="city-item" data-id="99" href="https://www.che300.com/buycar/x338616182?city=99">淮南</a> <a class="city-item" data-id="127" href="https://www.che300.com/buycar/x338616182?city=127">马鞍山</a> <a class="city-item" data-id="155" href="https://www.che300.com/buycar/x338616182?city=155">淮北</a> <a class="city-item" data-id="182" href="https://www.che300.com/buycar/x338616182?city=182">铜陵</a> <a class="city-item" data-id="209" href="https://www.che300.com/buycar/x338616182?city=209">安庆</a> <a class="city-item" data-id="235" href="https://www.che300.com/buycar/x338616182?city=235">黄山</a> <a class="city-item" data-id="259" href="https://www.che300.com/buycar/x338616182?city=259">滁州</a> <a class="city-item" data-id="281" href="https://www.che300.com/buycar/x338616182?city=281">阜阳</a> <a class="city-item" data-id="299" href="https://www.che300.com/buycar/x338616182?city=299">宿州</a> <a class="city-item" data-id="316" href="https://www.che300.com/buycar/x338616182?city=316">巢湖</a> <a class="city-item" data-id="330" href="https://www.che300.com/buycar/x338616182?city=330">六安</a> <a class="city-item" data-id="343" href="https://www.che300.com/buycar/x338616182?city=343">亳州</a> <a class="city-item" data-id="353" href="https://www.che300.com/buycar/x338616182?city=353">池州</a> <a class="city-item" data-id="363" href="https://www.che300.com/buycar/x338616182?city=363">宣城</a> </div></div></div><div class="row-prov" id="letter-B"><span class="letter">B</span><div class="provs-group"><span class="prov-item">北京</span><div class="city-items"><a class="city-item" data-id="1" href="https://www.che300.com/buycar/x338616182?city=1">北京</a> </div></div></div><div class="row-prov" id="letter-C"><span class="letter">C</span><div class="provs-group"><span class="prov-item">重庆</span><div class="city-items"><a class="city-item" data-id="4" href="https://www.che300.com/buycar/x338616182?city=4">重庆</a> </div></div></div><div class="row-prov" id="letter-F"><span class="letter">F</span><div class="provs-group"><span class="prov-item">福建</span><div class="city-items"><a class="city-item" data-id="14" href="https://www.che300.com/buycar/x338616182?city=14">福州</a> <a class="city-item" data-id="44" href="https://www.che300.com/buycar/x338616182?city=44">厦门</a> <a class="city-item" data-id="72" href="https://www.che300.com/buycar/x338616182?city=72">莆田</a> <a class="city-item" data-id="100" href="https://www.che300.com/buycar/x338616182?city=100">三明</a> <a class="city-item" data-id="128" href="https://www.che300.com/buycar/x338616182?city=128">泉州</a> <a class="city-item" data-id="156" href="https://www.che300.com/buycar/x338616182?city=156">漳州</a> <a class="city-item" data-id="183" href="https://www.che300.com/buycar/x338616182?city=183">南平</a> <a class="city-item" data-id="210" href="https://www.che300.com/buycar/x338616182?city=210">龙岩</a> <a class="city-item" data-id="236" href="https://www.che300.com/buycar/x338616182?city=236">宁德</a> </div></div></div><div class="row-prov" id="letter-G"><span class="letter">G</span><div class="provs-group"><span class="prov-item">甘肃</span><div class="city-items"><a class="city-item" data-id="21" href="https://www.che300.com/buycar/x338616182?city=21">兰州</a> <a class="city-item" data-id="51" href="https://www.che300.com/buycar/x338616182?city=51">金昌</a> <a class="city-item" data-id="79" href="https://www.che300.com/buycar/x338616182?city=79">白银</a> <a class="city-item" data-id="107" href="https://www.che300.com/buycar/x338616182?city=107">天水</a> <a class="city-item" data-id="135" href="https://www.che300.com/buycar/x338616182?city=135">嘉峪关</a> <a class="city-item" data-id="163" href="https://www.che300.com/buycar/x338616182?city=163">武威</a> <a class="city-item" data-id="190" href="https://www.che300.com/buycar/x338616182?city=190">张掖</a> <a class="city-item" data-id="217" href="https://www.che300.com/buycar/x338616182?city=217">平凉</a> <a class="city-item" data-id="243" href="https://www.che300.com/buycar/x338616182?city=243">酒泉</a> <a class="city-item" data-id="266" href="https://www.che300.com/buycar/x338616182?city=266">庆阳</a> <a class="city-item" data-id="288" href="https://www.che300.com/buycar/x338616182?city=288">定西</a> <a class="city-item" data-id="305" href="https://www.che300.com/buycar/x338616182?city=305">陇南</a> <a class="city-item" data-id="322" href="https://www.che300.com/buycar/x338616182?city=322">临夏</a> <a class="city-item" data-id="336" href="https://www.che300.com/buycar/x338616182?city=336">甘南</a> </div></div><div class="provs-group"><span class="prov-item">广东</span><div class="city-items"><a class="city-item" data-id="20" href="https://www.che300.com/buycar/x338616182?city=20">广州</a> <a class="city-item" data-id="50" href="https://www.che300.com/buycar/x338616182?city=50">深圳</a> <a class="city-item" data-id="78" href="https://www.che300.com/buycar/x338616182?city=78">珠海</a> <a class="city-item" data-id="106" href="https://www.che300.com/buycar/x338616182?city=106">汕头</a> <a class="city-item" data-id="134" href="https://www.che300.com/buycar/x338616182?city=134">韶关</a> <a class="city-item" data-id="162" href="https://www.che300.com/buycar/x338616182?city=162">佛山</a> <a class="city-item" data-id="189" href="https://www.che300.com/buycar/x338616182?city=189">江门</a> <a class="city-item" data-id="216" href="https://www.che300.com/buycar/x338616182?city=216">湛江</a> <a class="city-item" data-id="242" href="https://www.che300.com/buycar/x338616182?city=242">茂名</a> <a class="city-item" data-id="265" href="https://www.che300.com/buycar/x338616182?city=265">肇庆</a> <a class="city-item" data-id="287" href="https://www.che300.com/buycar/x338616182?city=287">惠州</a> <a class="city-item" data-id="304" href="https://www.che300.com/buycar/x338616182?city=304">梅州</a> <a class="city-item" data-id="321" href="https://www.che300.com/buycar/x338616182?city=321">汕尾</a> <a class="city-item" data-id="335" href="https://www.che300.com/buycar/x338616182?city=335">河源</a> <a class="city-item" data-id="347" href="https://www.che300.com/buycar/x338616182?city=347">阳江</a> <a class="city-item" data-id="357" href="https://www.che300.com/buycar/x338616182?city=357">清远</a> <a class="city-item" data-id="367" href="https://www.che300.com/buycar/x338616182?city=367">东莞</a> <a class="city-item" data-id="373" href="https://www.che300.com/buycar/x338616182?city=373">中山</a> <a class="city-item" data-id="378" href="https://www.che300.com/buycar/x338616182?city=378">潮州</a> <a class="city-item" data-id="382" href="https://www.che300.com/buycar/x338616182?city=382">揭阳</a> <a class="city-item" data-id="386" href="https://www.che300.com/buycar/x338616182?city=386">云浮</a> </div></div><div class="provs-group"><span class="prov-item">贵州</span><div class="city-items"><a class="city-item" data-id="23" href="https://www.che300.com/buycar/x338616182?city=23">贵阳</a> <a class="city-item" data-id="53" href="https://www.che300.com/buycar/x338616182?city=53">六盘水</a> <a class="city-item" data-id="81" href="https://www.che300.com/buycar/x338616182?city=81">遵义</a> <a class="city-item" data-id="109" href="https://www.che300.com/buycar/x338616182?city=109">安顺</a> <a class="city-item" data-id="137" href="https://www.che300.com/buycar/x338616182?city=137">铜仁</a> <a class="city-item" data-id="165" href="https://www.che300.com/buycar/x338616182?city=165">毕节</a> <a class="city-item" data-id="192" href="https://www.che300.com/buycar/x338616182?city=192">黔西南</a> <a class="city-item" data-id="219" href="https://www.che300.com/buycar/x338616182?city=219">黔东南</a> <a class="city-item" data-id="245" href="https://www.che300.com/buycar/x338616182?city=245">黔南</a> </div></div><div class="provs-group"><span class="prov-item">广西</span><div class="city-items"><a class="city-item" data-id="28" href="https://www.che300.com/buycar/x338616182?city=28">南宁</a> <a class="city-item" data-id="58" href="https://www.che300.com/buycar/x338616182?city=58">柳州</a> <a class="city-item" data-id="86" href="https://www.che300.com/buycar/x338616182?city=86">桂林</a> <a class="city-item" data-id="114" href="https://www.che300.com/buycar/x338616182?city=114">梧州</a> <a class="city-item" data-id="142" href="https://www.che300.com/buycar/x338616182?city=142">北海</a> <a class="city-item" data-id="170" href="https://www.che300.com/buycar/x338616182?city=170">防城港</a> <a class="city-item" data-id="197" href="https://www.che300.com/buycar/x338616182?city=197">钦州</a> <a class="city-item" data-id="224" href="https://www.che300.com/buycar/x338616182?city=224">贵港</a> <a class="city-item" data-id="249" href="https://www.che300.com/buycar/x338616182?city=249">玉林</a> <a class="city-item" data-id="271" href="https://www.che300.com/buycar/x338616182?city=271">百色</a> <a class="city-item" data-id="292" href="https://www.che300.com/buycar/x338616182?city=292">贺州</a> <a class="city-item" data-id="309" href="https://www.che300.com/buycar/x338616182?city=309">河池</a> <a class="city-item" data-id="326" href="https://www.che300.com/buycar/x338616182?city=326">来宾</a> <a class="city-item" data-id="340" href="https://www.che300.com/buycar/x338616182?city=340">崇左</a> </div></div></div><div class="row-prov" id="letter-H"><span class="letter">H</span><div class="provs-group"><span class="prov-item">黑龙江</span><div class="city-items"><a class="city-item" data-id="10" href="https://www.che300.com/buycar/x338616182?city=10">哈尔滨</a> <a class="city-item" data-id="40" href="https://www.che300.com/buycar/x338616182?city=40">齐齐哈尔</a> <a class="city-item" data-id="68" href="https://www.che300.com/buycar/x338616182?city=68">鹤岗</a> <a class="city-item" data-id="96" href="https://www.che300.com/buycar/x338616182?city=96">双鸭山</a> <a class="city-item" data-id="124" href="https://www.che300.com/buycar/x338616182?city=124">鸡西</a> <a class="city-item" data-id="152" href="https://www.che300.com/buycar/x338616182?city=152">大庆</a> <a class="city-item" data-id="179" href="https://www.che300.com/buycar/x338616182?city=179">伊春</a> <a class="city-item" data-id="206" href="https://www.che300.com/buycar/x338616182?city=206">牡丹江</a> <a class="city-item" data-id="232" href="https://www.che300.com/buycar/x338616182?city=232">佳木斯</a> <a class="city-item" data-id="256" href="https://www.che300.com/buycar/x338616182?city=256">七台河</a> <a class="city-item" data-id="278" href="https://www.che300.com/buycar/x338616182?city=278">黑河</a> <a class="city-item" data-id="297" href="https://www.che300.com/buycar/x338616182?city=297">绥化</a> <a class="city-item" data-id="314" href="https://www.che300.com/buycar/x338616182?city=314">大兴安岭</a> </div></div><div class="provs-group"><span class="prov-item">海南</span><div class="city-items"><a class="city-item" data-id="24" href="https://www.che300.com/buycar/x338616182?city=24">海口</a> <a class="city-item" data-id="54" href="https://www.che300.com/buycar/x338616182?city=54">三亚</a> <a class="city-item" data-id="82" href="https://www.che300.com/buycar/x338616182?city=82">五指山</a> <a class="city-item" data-id="110" href="https://www.che300.com/buycar/x338616182?city=110">琼海</a> <a class="city-item" data-id="138" href="https://www.che300.com/buycar/x338616182?city=138">儋州</a> <a class="city-item" data-id="166" href="https://www.che300.com/buycar/x338616182?city=166">文昌</a> <a class="city-item" data-id="193" href="https://www.che300.com/buycar/x338616182?city=193">万宁</a> <a class="city-item" data-id="220" href="https://www.che300.com/buycar/x338616182?city=220">东方</a> <a class="city-item" data-id="246" href="https://www.che300.com/buycar/x338616182?city=246">澄迈</a> <a class="city-item" data-id="268" href="https://www.che300.com/buycar/x338616182?city=268">定安</a> <a class="city-item" data-id="290" href="https://www.che300.com/buycar/x338616182?city=290">屯昌</a> <a class="city-item" data-id="307" href="https://www.che300.com/buycar/x338616182?city=307">临高</a> <a class="city-item" data-id="324" href="https://www.che300.com/buycar/x338616182?city=324">白沙</a> <a class="city-item" data-id="338" href="https://www.che300.com/buycar/x338616182?city=338">昌江</a> <a class="city-item" data-id="349" href="https://www.che300.com/buycar/x338616182?city=349">乐东</a> <a class="city-item" data-id="359" href="https://www.che300.com/buycar/x338616182?city=359">陵水</a> <a class="city-item" data-id="369" href="https://www.che300.com/buycar/x338616182?city=369">保亭</a> <a class="city-item" data-id="375" href="https://www.che300.com/buycar/x338616182?city=375">琼中</a> <a class="city-item" data-id="396" href="https://www.che300.com/buycar/x338616182?city=396">三沙</a> </div></div><div class="provs-group"><span class="prov-item">河北</span><div class="city-items"><a class="city-item" data-id="5" href="https://www.che300.com/buycar/x338616182?city=5">石家庄</a> <a class="city-item" data-id="35" href="https://www.che300.com/buycar/x338616182?city=35">唐山</a> <a class="city-item" data-id="63" href="https://www.che300.com/buycar/x338616182?city=63">秦皇岛</a> <a class="city-item" data-id="91" href="https://www.che300.com/buycar/x338616182?city=91">邯郸</a> <a class="city-item" data-id="119" href="https://www.che300.com/buycar/x338616182?city=119">邢台</a> <a class="city-item" data-id="147" href="https://www.che300.com/buycar/x338616182?city=147">保定</a> <a class="city-item" data-id="174" href="https://www.che300.com/buycar/x338616182?city=174">张家口</a> <a class="city-item" data-id="201" href="https://www.che300.com/buycar/x338616182?city=201">承德</a> <a class="city-item" data-id="227" href="https://www.che300.com/buycar/x338616182?city=227">沧州</a> <a class="city-item" data-id="252" href="https://www.che300.com/buycar/x338616182?city=252">廊坊</a> <a class="city-item" data-id="274" href="https://www.che300.com/buycar/x338616182?city=274">衡水</a> </div></div><div class="provs-group"><span class="prov-item">河南</span><div class="city-items"><a class="city-item" data-id="17" href="https://www.che300.com/buycar/x338616182?city=17">郑州</a> <a class="city-item" data-id="47" href="https://www.che300.com/buycar/x338616182?city=47">开封</a> <a class="city-item" data-id="75" href="https://www.che300.com/buycar/x338616182?city=75">洛阳</a> <a class="city-item" data-id="103" href="https://www.che300.com/buycar/x338616182?city=103">平顶山</a> <a class="city-item" data-id="131" href="https://www.che300.com/buycar/x338616182?city=131">安阳</a> <a class="city-item" data-id="159" href="https://www.che300.com/buycar/x338616182?city=159">鹤壁</a> <a class="city-item" data-id="186" href="https://www.che300.com/buycar/x338616182?city=186">新乡</a> <a class="city-item" data-id="213" href="https://www.che300.com/buycar/x338616182?city=213">焦作</a> <a class="city-item" data-id="239" href="https://www.che300.com/buycar/x338616182?city=239">濮阳</a> <a class="city-item" data-id="262" href="https://www.che300.com/buycar/x338616182?city=262">许昌</a> <a class="city-item" data-id="284" href="https://www.che300.com/buycar/x338616182?city=284">漯河</a> <a class="city-item" data-id="301" href="https://www.che300.com/buycar/x338616182?city=301">三门峡</a> <a class="city-item" data-id="318" href="https://www.che300.com/buycar/x338616182?city=318">南阳</a> <a class="city-item" data-id="332" href="https://www.che300.com/buycar/x338616182?city=332">商丘</a> <a class="city-item" data-id="345" href="https://www.che300.com/buycar/x338616182?city=345">信阳</a> <a class="city-item" data-id="355" href="https://www.che300.com/buycar/x338616182?city=355">周口</a> <a class="city-item" data-id="365" href="https://www.che300.com/buycar/x338616182?city=365">驻马店</a> <a class="city-item" data-id="372" href="https://www.che300.com/buycar/x338616182?city=372">济源</a> </div></div><div class="provs-group"><span class="prov-item">湖北</span><div class="city-items"><a class="city-item" data-id="18" href="https://www.che300.com/buycar/x338616182?city=18">武汉</a> <a class="city-item" data-id="48" href="https://www.che300.com/buycar/x338616182?city=48">黄石</a> <a class="city-item" data-id="76" href="https://www.che300.com/buycar/x338616182?city=76">十堰</a> <a class="city-item" data-id="104" href="https://www.che300.com/buycar/x338616182?city=104">荆州</a> <a class="city-item" data-id="132" href="https://www.che300.com/buycar/x338616182?city=132">宜昌</a> <a class="city-item" data-id="160" href="https://www.che300.com/buycar/x338616182?city=160">襄阳</a> <a class="city-item" data-id="187" href="https://www.che300.com/buycar/x338616182?city=187">鄂州</a> <a class="city-item" data-id="214" href="https://www.che300.com/buycar/x338616182?city=214">荆门</a> <a class="city-item" data-id="240" href="https://www.che300.com/buycar/x338616182?city=240">孝感</a> <a class="city-item" data-id="263" href="https://www.che300.com/buycar/x338616182?city=263">黄冈</a> <a class="city-item" data-id="285" href="https://www.che300.com/buycar/x338616182?city=285">咸宁</a> <a class="city-item" data-id="302" href="https://www.che300.com/buycar/x338616182?city=302">随州</a> <a class="city-item" data-id="319" href="https://www.che300.com/buycar/x338616182?city=319">仙桃</a> <a class="city-item" data-id="333" href="https://www.che300.com/buycar/x338616182?city=333">天门</a> <a class="city-item" data-id="346" href="https://www.che300.com/buycar/x338616182?city=346">潜江</a> <a class="city-item" data-id="356" href="https://www.che300.com/buycar/x338616182?city=356">神农架林区</a> <a class="city-item" data-id="366" href="https://www.che300.com/buycar/x338616182?city=366">恩施</a> </div></div><div class="provs-group"><span class="prov-item">湖南</span><div class="city-items"><a class="city-item" data-id="19" href="https://www.che300.com/buycar/x338616182?city=19">长沙</a> <a class="city-item" data-id="49" href="https://www.che300.com/buycar/x338616182?city=49">株洲</a> <a class="city-item" data-id="77" href="https://www.che300.com/buycar/x338616182?city=77">湘潭</a> <a class="city-item" data-id="105" href="https://www.che300.com/buycar/x338616182?city=105">衡阳</a> <a class="city-item" data-id="133" href="https://www.che300.com/buycar/x338616182?city=133">邵阳</a> <a class="city-item" data-id="161" href="https://www.che300.com/buycar/x338616182?city=161">岳阳</a> <a class="city-item" data-id="188" href="https://www.che300.com/buycar/x338616182?city=188">常德</a> <a class="city-item" data-id="215" href="https://www.che300.com/buycar/x338616182?city=215">张家界</a> <a class="city-item" data-id="241" href="https://www.che300.com/buycar/x338616182?city=241">益阳</a> <a class="city-item" data-id="264" href="https://www.che300.com/buycar/x338616182?city=264">郴州</a> <a class="city-item" data-id="286" href="https://www.che300.com/buycar/x338616182?city=286">永州</a> <a class="city-item" data-id="303" href="https://www.che300.com/buycar/x338616182?city=303">怀化</a> <a class="city-item" data-id="320" href="https://www.che300.com/buycar/x338616182?city=320">娄底</a> <a class="city-item" data-id="334" href="https://www.che300.com/buycar/x338616182?city=334">湘西</a> </div></div></div><div class="row-prov" id="letter-J"><span class="letter">J</span><div class="provs-group"><span class="prov-item">吉林</span><div class="city-items"><a class="city-item" data-id="9" href="https://www.che300.com/buycar/x338616182?city=9">长春</a> <a class="city-item" data-id="39" href="https://www.che300.com/buycar/x338616182?city=39">吉林</a> <a class="city-item" data-id="67" href="https://www.che300.com/buycar/x338616182?city=67">四平</a> <a class="city-item" data-id="95" href="https://www.che300.com/buycar/x338616182?city=95">辽源</a> <a class="city-item" data-id="123" href="https://www.che300.com/buycar/x338616182?city=123">通化</a> <a class="city-item" data-id="151" href="https://www.che300.com/buycar/x338616182?city=151">白山</a> <a class="city-item" data-id="178" href="https://www.che300.com/buycar/x338616182?city=178">松原</a> <a class="city-item" data-id="205" href="https://www.che300.com/buycar/x338616182?city=205">白城</a> <a class="city-item" data-id="231" href="https://www.che300.com/buycar/x338616182?city=231">延边</a> </div></div><div class="provs-group"><span class="prov-item">江苏</span><div class="city-items"><a class="city-item" data-id="11" href="https://www.che300.com/buycar/x338616182?city=11">南京</a> <a class="city-item" data-id="41" href="https://www.che300.com/buycar/x338616182?city=41">无锡</a> <a class="city-item" data-id="69" href="https://www.che300.com/buycar/x338616182?city=69">徐州</a> <a class="city-item" data-id="97" href="https://www.che300.com/buycar/x338616182?city=97">常州</a> <a class="city-item" data-id="125" href="https://www.che300.com/buycar/x338616182?city=125">苏州</a> <a class="city-item" data-id="153" href="https://www.che300.com/buycar/x338616182?city=153">南通</a> <a class="city-item" data-id="180" href="https://www.che300.com/buycar/x338616182?city=180">连云港</a> <a class="city-item" data-id="207" href="https://www.che300.com/buycar/x338616182?city=207">淮安</a> <a class="city-item" data-id="233" href="https://www.che300.com/buycar/x338616182?city=233">盐城</a> <a class="city-item" data-id="257" href="https://www.che300.com/buycar/x338616182?city=257">扬州</a> <a class="city-item" data-id="279" href="https://www.che300.com/buycar/x338616182?city=279">镇江</a> <a class="city-item" data-id="298" href="https://www.che300.com/buycar/x338616182?city=298">泰州</a> <a class="city-item" data-id="315" href="https://www.che300.com/buycar/x338616182?city=315">宿迁</a> </div></div><div class="provs-group"><span class="prov-item">江西</span><div class="city-items"><a class="city-item" data-id="15" href="https://www.che300.com/buycar/x338616182?city=15">南昌</a> <a class="city-item" data-id="45" href="https://www.che300.com/buycar/x338616182?city=45">景德镇</a> <a class="city-item" data-id="73" href="https://www.che300.com/buycar/x338616182?city=73">萍乡</a> <a class="city-item" data-id="101" href="https://www.che300.com/buycar/x338616182?city=101">九江</a> <a class="city-item" data-id="129" href="https://www.che300.com/buycar/x338616182?city=129">新余</a> <a class="city-item" data-id="157" href="https://www.che300.com/buycar/x338616182?city=157">鹰潭</a> <a class="city-item" data-id="184" href="https://www.che300.com/buycar/x338616182?city=184">赣州</a> <a class="city-item" data-id="211" href="https://www.che300.com/buycar/x338616182?city=211">吉安</a> <a class="city-item" data-id="237" href="https://www.che300.com/buycar/x338616182?city=237">宜春</a> <a class="city-item" data-id="260" href="https://www.che300.com/buycar/x338616182?city=260">抚州</a> <a class="city-item" data-id="282" href="https://www.che300.com/buycar/x338616182?city=282">上饶</a> </div></div></div><div class="row-prov" id="letter-L"><span class="letter">L</span><div class="provs-group"><span class="prov-item">辽宁</span><div class="city-items"><a class="city-item" data-id="8" href="https://www.che300.com/buycar/x338616182?city=8">沈阳</a> <a class="city-item" data-id="38" href="https://www.che300.com/buycar/x338616182?city=38">大连</a> <a class="city-item" data-id="66" href="https://www.che300.com/buycar/x338616182?city=66">鞍山</a> <a class="city-item" data-id="94" href="https://www.che300.com/buycar/x338616182?city=94">抚顺</a> <a class="city-item" data-id="122" href="https://www.che300.com/buycar/x338616182?city=122">本溪</a> <a class="city-item" data-id="150" href="https://www.che300.com/buycar/x338616182?city=150">丹东</a> <a class="city-item" data-id="177" href="https://www.che300.com/buycar/x338616182?city=177">锦州</a> <a class="city-item" data-id="204" href="https://www.che300.com/buycar/x338616182?city=204">营口</a> <a class="city-item" data-id="230" href="https://www.che300.com/buycar/x338616182?city=230">阜新</a> <a class="city-item" data-id="255" href="https://www.che300.com/buycar/x338616182?city=255">辽阳</a> <a class="city-item" data-id="277" href="https://www.che300.com/buycar/x338616182?city=277">盘锦</a> <a class="city-item" data-id="296" href="https://www.che300.com/buycar/x338616182?city=296">铁岭</a> <a class="city-item" data-id="313" href="https://www.che300.com/buycar/x338616182?city=313">朝阳</a> <a class="city-item" data-id="329" href="https://www.che300.com/buycar/x338616182?city=329">葫芦岛</a> </div></div></div><div class="row-prov" id="letter-N"><span class="letter">N</span><div class="provs-group"><span class="prov-item">宁夏</span><div class="city-items"><a class="city-item" data-id="30" href="https://www.che300.com/buycar/x338616182?city=30">银川</a> <a class="city-item" data-id="60" href="https://www.che300.com/buycar/x338616182?city=60">石嘴山</a> <a class="city-item" data-id="88" href="https://www.che300.com/buycar/x338616182?city=88">吴忠</a> <a class="city-item" data-id="116" href="https://www.che300.com/buycar/x338616182?city=116">固原</a> <a class="city-item" data-id="144" href="https://www.che300.com/buycar/x338616182?city=144">中卫</a> </div></div><div class="provs-group"><span class="prov-item">内蒙古</span><div class="city-items"><a class="city-item" data-id="32" href="https://www.che300.com/buycar/x338616182?city=32">呼和浩特</a> <a class="city-item" data-id="62" href="https://www.che300.com/buycar/x338616182?city=62">包头</a> <a class="city-item" data-id="90" href="https://www.che300.com/buycar/x338616182?city=90">乌海</a> <a class="city-item" data-id="118" href="https://www.che300.com/buycar/x338616182?city=118">赤峰</a> <a class="city-item" data-id="146" href="https://www.che300.com/buycar/x338616182?city=146">通辽</a> <a class="city-item" data-id="173" href="https://www.che300.com/buycar/x338616182?city=173">鄂尔多斯</a> <a class="city-item" data-id="200" href="https://www.che300.com/buycar/x338616182?city=200">呼伦贝尔</a> <a class="city-item" data-id="226" href="https://www.che300.com/buycar/x338616182?city=226">巴彦淖尔</a> <a class="city-item" data-id="251" href="https://www.che300.com/buycar/x338616182?city=251">乌兰察布</a> <a class="city-item" data-id="273" href="https://www.che300.com/buycar/x338616182?city=273">锡林郭勒</a> <a class="city-item" data-id="294" href="https://www.che300.com/buycar/x338616182?city=294">兴安</a> <a class="city-item" data-id="311" href="https://www.che300.com/buycar/x338616182?city=311">阿拉善</a> </div></div></div><div class="row-prov" id="letter-Q"><span class="letter">Q</span><div class="provs-group"><span class="prov-item">青海</span><div class="city-items"><a class="city-item" data-id="26" href="https://www.che300.com/buycar/x338616182?city=26">西宁</a> <a class="city-item" data-id="56" href="https://www.che300.com/buycar/x338616182?city=56">海东</a> <a class="city-item" data-id="84" href="https://www.che300.com/buycar/x338616182?city=84">海北</a> <a class="city-item" data-id="112" href="https://www.che300.com/buycar/x338616182?city=112">黄南</a> <a class="city-item" data-id="140" href="https://www.che300.com/buycar/x338616182?city=140">海南藏族</a> <a class="city-item" data-id="168" href="https://www.che300.com/buycar/x338616182?city=168">果洛</a> <a class="city-item" data-id="195" href="https://www.che300.com/buycar/x338616182?city=195">玉树</a> <a class="city-item" data-id="222" href="https://www.che300.com/buycar/x338616182?city=222">海西</a> </div></div></div><div class="row-prov" id="letter-S"><span class="letter">S</span><div class="provs-group"><span class="prov-item">四川</span><div class="city-items"><a class="city-item" data-id="22" href="https://www.che300.com/buycar/x338616182?city=22">成都</a> <a class="city-item" data-id="52" href="https://www.che300.com/buycar/x338616182?city=52">自贡</a> <a class="city-item" data-id="80" href="https://www.che300.com/buycar/x338616182?city=80">攀枝花</a> <a class="city-item" data-id="108" href="https://www.che300.com/buycar/x338616182?city=108">泸州</a> <a class="city-item" data-id="136" href="https://www.che300.com/buycar/x338616182?city=136">德阳</a> <a class="city-item" data-id="164" href="https://www.che300.com/buycar/x338616182?city=164">绵阳</a> <a class="city-item" data-id="191" href="https://www.che300.com/buycar/x338616182?city=191">广元</a> <a class="city-item" data-id="218" href="https://www.che300.com/buycar/x338616182?city=218">遂宁</a> <a class="city-item" data-id="244" href="https://www.che300.com/buycar/x338616182?city=244">内江</a> <a class="city-item" data-id="267" href="https://www.che300.com/buycar/x338616182?city=267">乐山</a> <a class="city-item" data-id="289" href="https://www.che300.com/buycar/x338616182?city=289">南充</a> <a class="city-item" data-id="306" href="https://www.che300.com/buycar/x338616182?city=306">眉山</a> <a class="city-item" data-id="323" href="https://www.che300.com/buycar/x338616182?city=323">宜宾</a> <a class="city-item" data-id="337" href="https://www.che300.com/buycar/x338616182?city=337">广安</a> <a class="city-item" data-id="348" href="https://www.che300.com/buycar/x338616182?city=348">达州</a> <a class="city-item" data-id="358" href="https://www.che300.com/buycar/x338616182?city=358">雅安</a> <a class="city-item" data-id="368" href="https://www.che300.com/buycar/x338616182?city=368">巴中</a> <a class="city-item" data-id="374" href="https://www.che300.com/buycar/x338616182?city=374">资阳</a> <a class="city-item" data-id="379" href="https://www.che300.com/buycar/x338616182?city=379">阿坝</a> <a class="city-item" data-id="383" href="https://www.che300.com/buycar/x338616182?city=383">甘孜</a> <a class="city-item" data-id="387" href="https://www.che300.com/buycar/x338616182?city=387">凉山</a> </div></div><div class="provs-group"><span class="prov-item">山东</span><div class="city-items"><a class="city-item" data-id="16" href="https://www.che300.com/buycar/x338616182?city=16">济南</a> <a class="city-item" data-id="46" href="https://www.che300.com/buycar/x338616182?city=46">青岛</a> <a class="city-item" data-id="74" href="https://www.che300.com/buycar/x338616182?city=74">淄博</a> <a class="city-item" data-id="102" href="https://www.che300.com/buycar/x338616182?city=102">枣庄</a> <a class="city-item" data-id="130" href="https://www.che300.com/buycar/x338616182?city=130">东营</a> <a class="city-item" data-id="158" href="https://www.che300.com/buycar/x338616182?city=158">烟台</a> <a class="city-item" data-id="185" href="https://www.che300.com/buycar/x338616182?city=185">潍坊</a> <a class="city-item" data-id="212" href="https://www.che300.com/buycar/x338616182?city=212">济宁</a> <a class="city-item" data-id="238" href="https://www.che300.com/buycar/x338616182?city=238">泰安</a> <a class="city-item" data-id="261" href="https://www.che300.com/buycar/x338616182?city=261">威海</a> <a class="city-item" data-id="283" href="https://www.che300.com/buycar/x338616182?city=283">日照</a> <a class="city-item" data-id="300" href="https://www.che300.com/buycar/x338616182?city=300">莱芜</a> <a class="city-item" data-id="317" href="https://www.che300.com/buycar/x338616182?city=317">临沂</a> <a class="city-item" data-id="331" href="https://www.che300.com/buycar/x338616182?city=331">德州</a> <a class="city-item" data-id="344" href="https://www.che300.com/buycar/x338616182?city=344">聊城</a> <a class="city-item" data-id="354" href="https://www.che300.com/buycar/x338616182?city=354">滨州</a> <a class="city-item" data-id="364" href="https://www.che300.com/buycar/x338616182?city=364">菏泽</a> </div></div><div class="provs-group"><span class="prov-item">陕西</span><div class="city-items"><a class="city-item" data-id="27" href="https://www.che300.com/buycar/x338616182?city=27">西安</a> <a class="city-item" data-id="57" href="https://www.che300.com/buycar/x338616182?city=57">铜川</a> <a class="city-item" data-id="85" href="https://www.che300.com/buycar/x338616182?city=85">宝鸡</a> <a class="city-item" data-id="113" href="https://www.che300.com/buycar/x338616182?city=113">咸阳</a> <a class="city-item" data-id="141" href="https://www.che300.com/buycar/x338616182?city=141">渭南</a> <a class="city-item" data-id="169" href="https://www.che300.com/buycar/x338616182?city=169">延安</a> <a class="city-item" data-id="196" href="https://www.che300.com/buycar/x338616182?city=196">汉中</a> <a class="city-item" data-id="223" href="https://www.che300.com/buycar/x338616182?city=223">榆林</a> <a class="city-item" data-id="248" href="https://www.che300.com/buycar/x338616182?city=248">安康</a> <a class="city-item" data-id="270" href="https://www.che300.com/buycar/x338616182?city=270">商洛</a> </div></div><div class="provs-group"><span class="prov-item">山西</span><div class="city-items"><a class="city-item" data-id="6" href="https://www.che300.com/buycar/x338616182?city=6">太原</a> <a class="city-item" data-id="36" href="https://www.che300.com/buycar/x338616182?city=36">大同</a> <a class="city-item" data-id="64" href="https://www.che300.com/buycar/x338616182?city=64">阳泉</a> <a class="city-item" data-id="92" href="https://www.che300.com/buycar/x338616182?city=92">长治</a> <a class="city-item" data-id="120" href="https://www.che300.com/buycar/x338616182?city=120">晋城</a> <a class="city-item" data-id="148" href="https://www.che300.com/buycar/x338616182?city=148">朔州</a> <a class="city-item" data-id="175" href="https://www.che300.com/buycar/x338616182?city=175">晋中</a> <a class="city-item" data-id="202" href="https://www.che300.com/buycar/x338616182?city=202">运城</a> <a class="city-item" data-id="228" href="https://www.che300.com/buycar/x338616182?city=228">忻州</a> <a class="city-item" data-id="253" href="https://www.che300.com/buycar/x338616182?city=253">临汾</a> <a class="city-item" data-id="275" href="https://www.che300.com/buycar/x338616182?city=275">吕梁</a> </div></div><div class="provs-group"><span class="prov-item">上海</span><div class="city-items"><a class="city-item" data-id="3" href="https://www.che300.com/buycar/x338616182?city=3">上海</a> </div></div></div><div class="row-prov" id="letter-T"><span class="letter">T</span><div class="provs-group"><span class="prov-item">天津</span><div class="city-items"><a class="city-item" data-id="2" href="https://www.che300.com/buycar/x338616182?city=2">天津</a> </div></div></div><div class="row-prov" id="letter-X"><span class="letter">X</span><div class="provs-group"><span class="prov-item">西藏</span><div class="city-items"><a class="city-item" data-id="29" href="https://www.che300.com/buycar/x338616182?city=29">拉萨</a> <a class="city-item" data-id="59" href="https://www.che300.com/buycar/x338616182?city=59">那曲</a> <a class="city-item" data-id="87" href="https://www.che300.com/buycar/x338616182?city=87">昌都</a> <a class="city-item" data-id="115" href="https://www.che300.com/buycar/x338616182?city=115">山南</a> <a class="city-item" data-id="143" href="https://www.che300.com/buycar/x338616182?city=143">日喀则</a> <a class="city-item" data-id="171" href="https://www.che300.com/buycar/x338616182?city=171">阿里</a> <a class="city-item" data-id="198" href="https://www.che300.com/buycar/x338616182?city=198">林芝</a> </div></div><div class="provs-group"><span class="prov-item">新疆</span><div class="city-items"><a class="city-item" data-id="31" href="https://www.che300.com/buycar/x338616182?city=31">乌鲁木齐</a> <a class="city-item" data-id="61" href="https://www.che300.com/buycar/x338616182?city=61">克拉玛依</a> <a class="city-item" data-id="89" href="https://www.che300.com/buycar/x338616182?city=89">石河子</a> <a class="city-item" data-id="117" href="https://www.che300.com/buycar/x338616182?city=117">阿拉尔</a> <a class="city-item" data-id="145" href="https://www.che300.com/buycar/x338616182?city=145">图木舒克</a> <a class="city-item" data-id="172" href="https://www.che300.com/buycar/x338616182?city=172">五家渠</a> <a class="city-item" data-id="199" href="https://www.che300.com/buycar/x338616182?city=199">吐鲁番</a> <a class="city-item" data-id="225" href="https://www.che300.com/buycar/x338616182?city=225">阿克苏</a> <a class="city-item" data-id="250" href="https://www.che300.com/buycar/x338616182?city=250">喀什</a> <a class="city-item" data-id="272" href="https://www.che300.com/buycar/x338616182?city=272">哈密</a> <a class="city-item" data-id="293" href="https://www.che300.com/buycar/x338616182?city=293">和田</a> <a class="city-item" data-id="310" href="https://www.che300.com/buycar/x338616182?city=310">阿图什</a> <a class="city-item" data-id="327" href="https://www.che300.com/buycar/x338616182?city=327">巴音郭楞</a> <a class="city-item" data-id="341" href="https://www.che300.com/buycar/x338616182?city=341">昌吉</a> <a class="city-item" data-id="351" href="https://www.che300.com/buycar/x338616182?city=351">阜康</a> <a class="city-item" data-id="361" href="https://www.che300.com/buycar/x338616182?city=361">米泉</a> <a class="city-item" data-id="370" href="https://www.che300.com/buycar/x338616182?city=370">博乐</a> <a class="city-item" data-id="376" href="https://www.che300.com/buycar/x338616182?city=376">伊宁</a> <a class="city-item" data-id="380" href="https://www.che300.com/buycar/x338616182?city=380">奎屯</a> <a class="city-item" data-id="384" href="https://www.che300.com/buycar/x338616182?city=384">塔城</a> <a class="city-item" data-id="388" href="https://www.che300.com/buycar/x338616182?city=388">乌苏</a> <a class="city-item" data-id="390" href="https://www.che300.com/buycar/x338616182?city=390">阿勒泰</a> <a class="city-item" data-id="392" href="https://www.che300.com/buycar/x338616182?city=392">伊犁</a> <a class="city-item" data-id="393" href="https://www.che300.com/buycar/x338616182?city=393">博尔塔拉</a> <a class="city-item" data-id="395" href="https://www.che300.com/buycar/x338616182?city=395">克孜勒苏</a> <a class="city-item" data-id="397" href="https://www.che300.com/buycar/x338616182?city=397">北屯</a> </div></div></div><div class="row-prov" id="letter-Y"><span class="letter">Y</span><div class="provs-group"><span class="prov-item">云南</span><div class="city-items"><a class="city-item" data-id="25" href="https://www.che300.com/buycar/x338616182?city=25">昆明</a> <a class="city-item" data-id="55" href="https://www.che300.com/buycar/x338616182?city=55">曲靖</a> <a class="city-item" data-id="83" href="https://www.che300.com/buycar/x338616182?city=83">玉溪</a> <a class="city-item" data-id="111" href="https://www.che300.com/buycar/x338616182?city=111">保山</a> <a class="city-item" data-id="139" href="https://www.che300.com/buycar/x338616182?city=139">昭通</a> <a class="city-item" data-id="167" href="https://www.che300.com/buycar/x338616182?city=167">丽江</a> <a class="city-item" data-id="194" href="https://www.che300.com/buycar/x338616182?city=194">普洱</a> <a class="city-item" data-id="221" href="https://www.che300.com/buycar/x338616182?city=221">临沧</a> <a class="city-item" data-id="247" href="https://www.che300.com/buycar/x338616182?city=247">文山</a> <a class="city-item" data-id="269" href="https://www.che300.com/buycar/x338616182?city=269">红河</a> <a class="city-item" data-id="291" href="https://www.che300.com/buycar/x338616182?city=291">西双版纳</a> <a class="city-item" data-id="308" href="https://www.che300.com/buycar/x338616182?city=308">楚雄</a> <a class="city-item" data-id="325" href="https://www.che300.com/buycar/x338616182?city=325">大理</a> <a class="city-item" data-id="339" href="https://www.che300.com/buycar/x338616182?city=339">德宏</a> <a class="city-item" data-id="350" href="https://www.che300.com/buycar/x338616182?city=350">怒江</a> <a class="city-item" data-id="360" href="https://www.che300.com/buycar/x338616182?city=360">迪庆</a> </div></div></div><div class="row-prov" id="letter-Z"><span class="letter">Z</span><div class="provs-group"><span class="prov-item">浙江</span><div class="city-items"><a class="city-item" data-id="12" href="https://www.che300.com/buycar/x338616182?city=12">杭州</a> <a class="city-item" data-id="42" href="https://www.che300.com/buycar/x338616182?city=42">宁波</a> <a class="city-item" data-id="70" href="https://www.che300.com/buycar/x338616182?city=70">温州</a> <a class="city-item" data-id="98" href="https://www.che300.com/buycar/x338616182?city=98">嘉兴</a> <a class="city-item" data-id="126" href="https://www.che300.com/buycar/x338616182?city=126">湖州</a> <a class="city-item" data-id="154" href="https://www.che300.com/buycar/x338616182?city=154">绍兴</a> <a class="city-item" data-id="181" href="https://www.che300.com/buycar/x338616182?city=181">金华</a> <a class="city-item" data-id="208" href="https://www.che300.com/buycar/x338616182?city=208">衢州</a> <a class="city-item" data-id="234" href="https://www.che300.com/buycar/x338616182?city=234">舟山</a> <a class="city-item" data-id="258" href="https://www.che300.com/buycar/x338616182?city=258">台州</a> <a class="city-item" data-id="280" href="https://www.che300.com/buycar/x338616182?city=280">丽水</a> </div></div></div></div></div>
+        </div>
+        <div class="header-tel">
+            <img src="https://ssl-assets.che300.com/feimg/web3.0/home/icon_fzz.png" alt="">
+            400-858-7585
+        </div>
+        <div class="search-container">
+            <input type="text" class="search-txt" id="search-top-input" placeholder="请输入品牌/车系/车型" name="keyword" value="">
+            <button id="search-top-btn" class="top-search">
+                <div class="home-icons icon-search"></div>
+            </button>
+        </div>
+    </div>
+        <!--导航栏-->
+    <div class="c3pc-header-nav">
+        <div class="father-ul">
+            <div class="child-li">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_header_index', 'click', 'common']);" href="https://www.che300.com/?city=1">首页</a>
+            </div>
+            <div class="child-li">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_header_pinggu', 'click', 'common']);" href="https://www.che300.com/pinggu?city=1">车辆估值</a>
+            </div>
+            <div class="child-li choose-title">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_header_buycar', 'click', 'common']);" href="https://www.che300.com/buycar?city=1">全网淘车</a>
+            </div>
+            <div class="child-li">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_header_sellcar', 'click', 'common']);" href="https://www.che300.com/sellcar?city=1">高价卖车</a>
+            </div>
+            <div class="child-li">
+                <a onclick="_hmt.push(['_trackEvent', 'app_qrcode_personal', 'click', 'common']);" href="https://www.che300.com/web_app_download/app_qrcode_personal?city=1">车300大众版</a>
+            </div>
+            <div class="child-li">
+                <a onclick="_hmt.push(['_trackEvent', 'app_qrcode_major', 'click', 'common']);" href="https://www.che300.com/web_app_download/app_qrcode_major?city=1">车300专业版</a>
+            </div>
+
+
+    </div>
+</div></header>
+<div class="header-empty"></div>
+<!-- 通过id得到一些变量 -->
+<form action="">
+    <input type="hidden" id="version" value="">
+    <input id="carClassInput" class="hideSearchInput" type="hidden" name="">
+    <input id="carYearInput" class="hideSearchInput" type="hidden" name="">
+    <input id="carBrandInput" class="hideSearchInput" type="hidden" name="">
+    <input id="carSeriesInput" class="hideSearchInput" type="hidden" name="">
+    <input id="carModelInput" class="hideSearchInput" type="hidden" name="">
+    <input id="page" type="hidden" value="">
+    <input id="keyword" type="hidden" value="">
+    <input id="c2c" type="hidden" value="">
+    <input id="carBrand" type="hidden" value="">
+    <input id="carSeries" type="hidden" value="">
+    <input id="carModel" type="hidden" value="">
+    <input id="carYear" type="hidden" value="">
+    <input id="carMile" type="hidden" value="">
+    <input id="carPrice" type="hidden" value="">
+    <input id="vprSort" type="hidden" value="">
+    <input id="priceSort" type="hidden" value="">
+    <input id="registerDateSort" type="hidden" value="">
+    <input id="postDateSort" type="hidden" value="">
+    <input id="mileAgeSort" type="hidden" value="">
+    <input id="sellerType" type="hidden" value="">
+    <input id="series_level" type="hidden" value="">
+    <input id="gear" type="hidden" value="">
+    <input id="liter" type="hidden" value="">
+    <input id="ds" type="hidden" value="">
+    <input id="order" type="hidden" value="">
+    <input id="car_class" type="hidden" value="">
+    <input id="cityID" class="hideSearchInput" type="hidden" name="" value="1">
+    <input id="provID" class="hideSearchInput" type="hidden" name="" value="">
+
+</form><input type="hidden" id="cityId" value="1">
+<input type="hidden" id="price" value="2.15">
+<input type="hidden" id="carId" value="338616182">
+<input type="hidden" id="seriesId" value="2479">
+<input type="hidden" id="modelId" value="22891">
+<input type="hidden" id="provId" value="1">
+<input type="hidden" id="carSource" value="58">
+<input type="hidden" id="carUrl" value="http://bj.58.com/ershouche/44558176039821x.shtml">
+<input type="hidden" id="modelPrice" value="31.8">
+<meta name="referrer" content="never">
+<div class="detail">
+<div class="detail-wrap">
+<!--面包屑导航-->
+<div class="bread">
+    <ul><li class="bread_lii">当前位置 :&nbsp;</li><li class="bread_li"><a href="https://www.che300.com/?city=1">车300二手车 </a></li><li class="bread_li"><span> &gt; </span><a href="https://www.che300.com/buycar?city=1">北京二手车 </a></li><li class="bread_li"><span> &gt; </span><a href="https://www.che300.com/buycar/b25c1v1?city=1">北京二手大众</a></li><li class="bread_li"><span> &gt; </span><a href="https://www.che300.com/buycar/s2479c1v1?city=1">北京二手帕萨特领驭</a></li><li class="bread_li"><span> &gt; </span><a href="javascript:void(0)">2006款 帕萨特领驭 2.8L V6手自一体旗舰型</a></li></ul></div>
+<!--头部信息-->
+<div class="dt-info">
+    <h1>2006款 帕萨特领驭 2.8L V6手自一体旗舰型</h1>
+    <div class="dti-wrap clearfix">
+        <div class="dti-left">
+                            <img src="https://pic7.58cdn.com.cn/p1/big/n_v2b6a1af3e460841afafff8764d831ad60.jpg" alt="2006款 帕萨特领驭 2.8L V6手自一体旗舰型图片">
+                        <div class="dtil-symbol">
+                <span style="padding-right: 10px;border-right: 1px solid #fff">
+                    商家车源</span>
+                <span style="padding-left: 10px;text-decoration: underline;cursor: pointer" id="scrollImg">查看图集(4)</span>
+            </div>
+            <!--<ul class="dtil-icon clearfix">
+                <li><i class="icon-collect"></i>收藏</li>
+                <li><i class="icon-share"></i>分享</li>
+                <li><i class="icon-phone"></i>发送到手机</li>
+            </ul>-->
+        </div>
+        <div class="dti-right">
+            <div class="dtir-price clearfix">
+                <strong>￥2.15万</strong>
+                            </div>
+            <div class="dtir-cp">
+                <p>新车最低价：
+                                            <span id="newPrice" style="color:#999">31.8万</span>
+                                    </p>
+
+                <p>估值：2.25万
+                    <span class="dtir-low"><i></i>报价低于估值0.1万</span>                    <a target="_blank" href="https://www.che300.com/pinggu/v1c1m22891r2007-09g13" style="color:#999">了解详情 &gt;</a></p>
+            </div>
+            <div class="dtir-service">
+                <p>服务费：暂无数据</p>
+            </div>
+            <ul class="dtir-4in clearfix">
+                <li>
+                    <p>上牌日期</p>
+
+                    <span>2007年09月</span>
+                </li>
+                <li>
+                    <p>公里数</p>
+
+                    <span>13万公里</span>
+                </li>
+                <li>
+                    <p>所在地</p>
+
+                    <span>北京</span>
+                </li>
+                <li class="discharge-standand">
+                    <div class="tip-discharge"></div>
+                    <div class="tip-content">
+                        各地车管所对排放标准认定有差异，此标准仅供参考，外迁详情请咨询迁入地车管所
+                        <div class="tip-arrow"></div>
+                    </div>
+                    <p>排放标准</p>
+
+                    <span>国4</span>
+                </li>
+                <li style="border: none">
+                    <p>来源</p>
+                                            <a style="text-decoration:underline" target="_blank" onclick="_hmt.push(['_trackEvent', 'direct_to_58', 'click', 'detail']);" href="https://www.che300.com/out?source=58&amp;url=http%3A%2F%2Fbj.58.com%2Fershouche%2F44558176039821x.shtml">
+                                 58同城                        </a>
+                                    </li>
+            </ul>
+                            <div style="padding: 10px 0">
+
+                    <a target="_blank" href="javascript:;" class="look-tel" id="taoche-cert"><i></i>查看电话号码</a>
+
+                                        <div class="middle-aux"></div>
+                </div>
+            <!--             <div class="test-box">
+                <p>车300提供独立第三方车辆检测服务，不参与您的交易流程。您在申请检测前需要先联系卖家确定看车的时间和地点。</p>
+                <a id="test-cancel" style="background-color: #F5F5F5;left: 0">取消</a>
+                <a style="right: 0;color:#fff;background-color: #f60" href="https://www.che300.com/inspect?carId=338616182&place=1&from=web_detail">确认申请检测</a>
+            </div>
+            <div class="test-mask"></div> -->
+        </div>
+    </div>
+</div>
+<!--亮点配置-->
+    <h3 class="dt-title">亮点配置</h3>
+    <ul class="dt-light" id="highlight_config">
+        <li id="hzcld"><i></i><div>后驱车雷达</div></li><li id="tyjc"><i></i><div>胎压监测</div></li><li id="hsjjr"><i></i><div>后视镜加热</div></li>    </ul>
+
+<!--基本信息-->
+<h3 class="dt-title">基本信息</h3>
+
+<div class="dt-base">
+    <ul class="clearfix">
+        <li>车身颜色</li>
+        <li>黑色</li>
+        <li>年检到期时间</li>
+        <li>--</li>
+        <li>首次上牌时间</li>
+        <li>2007-09-01</li>
+        <li>变速箱</li>
+        <li>5挡 手自一体</li>
+        <li>交强险到期时间</li>
+        <li>--</li>
+        <li>估值</li>
+        <li>2.25</li>
+        <li>排量</li>
+        <li>2.8L</li>
+        <li>商业险到期时间</li>
+        <li>--</li>
+        <li>下一年估值</li>
+        <li>2.1</li>
+    </ul>
+</div>
+
+<!--车辆描述-->
+<h3 class="dt-title" id="carDesc">车辆描述
+    </h3>
+
+<p class="dt-para">车况描述： 漆面保养良好，车身结构无修复，无重大事故。内饰干净整洁，安全指示灯正常，气囊等被动安全项正常，车辆内电子器件使用良好，车内静态动态设备完善。车辆点火，起步，过弯，减速，制动均无问题，加速迅猛，动力输出平稳，五怠速抖动。整体车况优秀。车体骨架无变形扭曲，无货火烧泡水痕迹。整体漆面良好，视野宽阔，空间宽敞，明亮通风性好商家自荐： 本车行现车300多台，全部都是个人私家车，还有4s店置换车辆，以上好拍照，提档过户也可以，都可以办理进京证，进店铺看更多车源。</p>
+
+<div class="dt-img">
+                                        <img class="lazy" title="点击查看原图" data-original="https://pic7.58cdn.com.cn/p1/big/n_v2b6a1af3e460841afafff8764d831ad60.jpg" alt="车300二手车图片" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                                                <img class="lazy" title="点击查看原图" data-original="https://pic5.58cdn.com.cn/p1/big/n_v2e463deace1194584b0c8b8c22a1a7f19.jpg" alt="车300二手车图片" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                                                <img class="lazy" title="点击查看原图" data-original="https://pic1.58cdn.com.cn/p1/big/n_v203e4c949a6a94da4b40c5ed73a853be8.jpg" alt="车300二手车图片" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                                                <img class="lazy" title="点击查看原图" data-original="https://pic7.58cdn.com.cn/p1/big/n_v2b113ea4c25264a19a5569c08207addef.jpg" alt="车300二手车图片" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                        </div>
+<!--配置参数-->
+<div class="dt-cfg clearfix">
+    <h3 class="dt-title">配置参数
+        <a class="more-value" href="https://www.che300.com/mi_22891" target="_blank">更多参数
+            &gt;</a></h3>
+    <div><dl class="config"><dt>基本参数</dt><dd><span>长*宽*高(mm)</span><span style="text-align: right">4789*1765*1470</span></dd><dd><span>级别</span><span style="text-align: right">中型车</span></dd><dd><span>变速箱</span><span style="text-align: right">5挡 手自一体</span></dd><dd><span>厂商</span><span style="text-align: right">上海大众</span></dd><dd><span>车身结构</span><span style="text-align: right">4门5座三厢车</span></dd><dd><span>发动机</span><span style="text-align: right">2.8L 190马力</span></dd></dl></div><div><dl class="config"><dt>发动机</dt><dd><span>进气形式</span><span style="text-align: right">自然吸气</span></dd><dd><span>燃油标号</span><span style="text-align: right">92号</span></dd><dd><span>气缸排列形式</span><span style="text-align: right">V型</span></dd><dd><span>最大功率(kW)</span><span style="text-align: right">140</span></dd><dd><span>燃料形式</span><span style="text-align: right">汽油</span></dd><dd><span>最大扭矩(N·m)</span><span style="text-align: right">260</span></dd><dd><span>排量(mL)</span><span style="text-align: right">2800</span></dd><dd><span>环保标准</span><span style="text-align: right">国4</span></dd><dd><span>最大马力(Ps)</span><span style="text-align: right">190</span></dd><dd><span>最大功率转速(rpm)</span><span style="text-align: right">6000</span></dd><dd><span>排量(L)</span><span style="text-align: right">2.8</span></dd></dl></div><div><dl class="config"><dt>安全装备</dt></dl></div><div><dl class="config"><dt>车身</dt><dd><span>整备质量(kg)</span><span style="text-align: right">1580</span></dd><dd><span>长度(mm)</span><span style="text-align: right">4789</span></dd><dd><span>座位数(个)</span><span style="text-align: right">5</span></dd><dd><span>轴距(mm)</span><span style="text-align: right">2803</span></dd><dd><span>宽度(mm)</span><span style="text-align: right">1765</span></dd><dd><span>行李厢容积(L)</span><span style="text-align: right">475</span></dd><dd><span>高度(mm)</span><span style="text-align: right">1470</span></dd><dd><span>车门数(个)</span><span style="text-align: right">4</span></dd></dl></div><div><dl class="config"><dt>内部配置</dt></dl></div><div><dl class="config"><dt>变速箱</dt><dd><span>挡位个数</span><span style="text-align: right">5</span></dd><dd><span>变速箱类型</span><span style="text-align: right">手自一体</span></dd></dl><a target="_blank" style="display:block;text-align:right;" href="https://www.che300.com/mi_22891">更多参数 &gt;</a></div></div>
+<div class="close-cfg">
+    <button id="close-cfg">收起配置参数<i class="slide-up"></i></button>
+</div>
+<!--推荐车源-->
+<ul class="dt-rec clearfix">
+    <li class="focus" id="priceRec">同价位推荐</li>
+    <li id="modelRec">同车系推荐</li>
+</ul>
+<div class="list-wrap price-rec" style="margin-bottom:30px;">
+    <div class="car-loading" style="display: none;">
+        <img src="https://assets.che300.com/feimg/web3.0/base/data_loading.gif" alt="">
+
+        <p>数据加载中…</p>
+    </div>
+    <ul class="list-row clearfix" id="price-rec">
+
+    <li style="margin-top:0px;" class="list-item" title="2011款 福克斯两厢 1.8L 手动舒适型"><a href="https://www.che300.com/buycar/x340005681" target="_blank"><img class="lazy" alt="车3002011款 福克斯两厢 1.8L 手动舒适型车辆封面图片" src="https://mktcar.rrcimg.com/o_1eth4inj3605913649399973718462904.jpg?imageView2/1/w/290/h/185" data-original=""><div class="list-info"><p class="list-title">2011款 福克斯两厢 1.8L 手动舒适型</p><p>2011-05 / 16.24万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>2.00</i>万</span><span class="list-vpr"><span class="list-tag">超值</span>推荐指数：<i>87.7%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.48万</i></span><span class="seller seller-psn">个人</span></p></div></a></li><li style="margin-top:0px;" class="list-item" title="2009款 骊威 1.6GI 手动全能型"><a href="https://www.che300.com/buycar/x339967444" target="_blank"><img class="lazy" alt="车3002009款 骊威 1.6GI 手动全能型车辆封面图片" src="https://pic4.58cdn.com.cn/p1/big/n_v2030a7f973de240c5be6c587b33dacf73.jpg?w=400&amp;h=200" data-original=""><div class="list-info"><p class="list-title">2009款 骊威 1.6GI 手动全能型</p><p>2009-12 / 12万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>2.00</i>万</span><span class="list-vpr"><span class="list-tag">超值</span>推荐指数：<i>89.8%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.48万</i></span><span class="seller seller-bsns">商家</span></p></div></a></li><li style="margin-top:0px;" class="list-item" title="2011款 凯越 1.6 LX-MT"><a href="https://www.che300.com/buycar/x339226885" target="_blank"><img class="lazy" alt="车3002011款 凯越 1.6 LX-MT车辆封面图片" src="https://pic3.58cdn.com.cn/p1/big/n_v270005235447c4de79a4e7be44484df30.jpg?w=400&amp;h=200" data-original=""><div class="list-info"><p class="list-title">2011款 凯越 1.6 LX-MT</p><p>2011-10 / 10万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>1.95</i>万</span><span class="list-vpr"><span class="list-tag">超值</span>推荐指数：<i>88.6%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.49万</i></span><span class="seller seller-bsns">商家</span></p></div></a></li><li style="margin-top:0px;" class="list-item" title="2013款 景程 1.8L 手动 SX 豪华版"><a href="https://www.che300.com/buycar/x339173229" target="_blank"><img class="lazy" alt="车3002013款 景程 1.8L 手动 SX 豪华版车辆封面图片" src="https://mktcar.rrcimg.com/o_1er66edh550878389446545398160862.jpg?imageView2/1/w/290/h/185" data-original=""><div class="list-info"><p class="list-title">2013款 景程 1.8L 手动 SX 豪华版</p><p>2013-02 / 6.48万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>2.30</i>万</span><span class="list-vpr"><span class="list-tag">超值</span>推荐指数：<i>87.6%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.25万</i></span><span class="seller seller-psn">个人</span></p></div></a></li></ul>
+</div>
+<div class="list-wrap series-rec" style="display:none;margin-bottom:30px;">
+    <div class="car-loading" style="display: none;">
+        <img src="https://assets.che300.com/feimg/web3.0/base/data_loading.gif" alt="">
+
+        <p>数据加载中…</p>
+    </div>
+    <ul class="list-row clearfix" id="series-rec">
+
+    <li style="margin-top:0px;" class="list-item" title="2011款 帕萨特领驭 1.8T 自动尊享型"><a href="https://www.che300.com/buycar/x340001785" target="_blank"><img class="lazy" alt="车3002011款 帕萨特领驭 1.8T 自动尊享型车辆封面图片" src="https://2sc2.autoimg.cn/escimg/g30/M02/F6/23/f_u_autohomecar__ChsEf2AZAWuAboJkAALW-JvCSzk506.jpg" data-original=""><div class="list-info"><p class="list-title">2011款 帕萨特领驭 1.8T 自动尊享型</p><p>2011-11 / 14.7万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>4.80</i>万</span><span class="list-vpr">推荐指数：<i>77.9%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.57万</i></span><span class="seller seller-bsns">商家</span></p></div></a></li><li style="margin-top:0px;" class="list-item" title="2009款 帕萨特领驭 1.8T 自动尊品型"><a href="https://www.che300.com/buycar/x339866891" target="_blank"><img class="lazy" alt="车3002009款 帕萨特领驭 1.8T 自动尊品型车辆封面图片" src="https://pic5.58cdn.com.cn/p1/big/n_v2e61a0a3482ea4156ab28aa12e15068d2.jpg?w=400&amp;h=200" data-original=""><div class="list-info"><p class="list-title">2009款 帕萨特领驭 1.8T 自动尊品型</p><p>2009-09 / 10万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>4.00</i>万</span><span class="list-vpr">推荐指数：<i>70.8%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.04万</i></span><span class="seller seller-bsns">商家</span></p></div></a></li><li style="margin-top:0px;" class="list-item" title="2006款 帕萨特领驭 1.8T 自动舒适型VIP"><a href="https://www.che300.com/buycar/x339132912" target="_blank"><img class="lazy" alt="车3002006款 帕萨特领驭 1.8T 自动舒适型VIP车辆封面图片" src="https://pic3.58cdn.com.cn/p1/big/n_v2739f4da049de44d29d26cf78882ab7fc.jpg?w=400&amp;h=200" data-original=""><div class="list-info"><p class="list-title">2006款 帕萨特领驭 1.8T 自动舒适型VIP</p><p>2006-08 / 10万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>1.75</i>万</span><span class="list-vpr">推荐指数：<i>77.9%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.16万</i></span><span class="seller seller-bsns">商家</span></p></div></a></li><li style="margin-top:0px;" class="list-item" title="2006款 帕萨特领驭 1.8T 自动舒适型VIP"><a href="https://www.che300.com/buycar/x339106520" target="_blank"><img class="lazy" alt="车3002006款 帕萨特领驭 1.8T 自动舒适型VIP车辆封面图片" src="https://pic1.58cdn.com.cn/p1/big/n_v23e1be60c5a1a4291b31f013150917c63.jpg?w=400&amp;h=200" data-original=""><div class="list-info"><p class="list-title">2006款 帕萨特领驭 1.8T 自动舒适型VIP</p><p>2006-09 / 9万公里 / 北京</p><p class="clearfix"><span class="list-price"><i>1.88</i>万</span><span class="list-vpr">推荐指数：<i>68.8%</i></span></p><p class="list-bottom"><img src="https://assets.che300.com/feimg/web3.0/base/card_icon.png" alt=""><span>比车300估值<i class="low">低0.04万</i></span><span class="seller seller-bsns">商家</span></p></div></a></li></ul>
+</div>
+</div>
+</div>
+<!--js-->
+    <script src="//fezz.che300.com/web/pc/js/2021_1_27/base.b99f4f78.js?v=2021011801"></script>
+    <script src="//fezz.che300.com/web/pc/js/2021_1_26/detail.3d7d8fc8.js?v=2021011801"></script>
+<!--通用footer-->
+<footer class="c3pc-footer">
+    <div class="footer-wrap">
+        <ul>
+            <li class="foot-title">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_footer_app_qrcode_major', 'click', 'common']);" href="http://www.sanbaiyun.com">三百云官网</a>
+                    <!-- 由于后端暂时不支持https，所以这里写死成http链接 -->
+            </li>
+        </ul>
+        <ul>
+            <li class="foot-title">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_header_pinggu', 'click', 'common']);" href="https://m.che300.com/">访问触屏版（m.che300.com）</a>
+            </li>
+        </ul>
+        <ul>
+            <li class="foot-title">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_footer_aboutus', 'click', 'common']);" href="https://www.che300.com/web_app_download/app_qrcode_personal?city=1">下载车300大众版</a>
+            </li>
+        </ul>
+        <ul>
+            <li class="foot-title">
+                <a onclick="_hmt.push(['_trackEvent', 'pc_footer_aboutus', 'click', 'common']);" href="https://www.che300.com/web_app_download/app_qrcode_major?city=1">下载车300专业版</a>
+            </li>
+        </ul>
+        <div class="qr-code">
+            <img src="https://assets.che300.com/feimg/web3.0/base/wechat_qrcode.png?v=2021011801" alt="关注车300官方订阅号(id:chesanbai)、服务号(id:che300)">
+
+            <p>扫一扫 关注车300官方微信</p>
+        </div>
+        <div class="for-record">
+            <p class="certificate">
+                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32010602010497" style="display:inline-block">
+                    <span>苏公网安备 32010602010497号 | </span>
+                </a>
+                <a class="split-mark" href="http://beian.miit.gov.cn" target="_blank"> 苏ICP备14001955号 | </a>
+                <a class="split-mark" href="https://assets.che300.com/feimg/web3.0/base/ICP_2020_2025.jpg" target="_blank">经营许可证编号：苏B2-20150297</a>
+            </p>
+            <p class="copyright">Copyright ©2013-2021三百云 All Rights Reserved 南京三百云信息科技有限公司</p>
+            <p>本公司用字经北京北大方正电子有限公司授权许可</p>
+        </div>
+    </div>
+</footer>
+<div id="feedback_confirm_modal">
+    <div class="form-wrapper confirm">
+        <h2 id="msg_tip"></h2>
+        <p></p>
+    </div>
+    <div class="close-btn" data-dismiss="modal" aria-hidden="true"></div>
+</div>
+<!--侧边固定栏-->
+<ul class="fixed-box">
+    <li class="fixed-feedback user_feedback icon_feedback_nor">
+        <a onclick="_hmt.push(['_trackEvent', 'pc_footer_cooperator', 'click', 'common']);" href="/cooperator?city=1">申请合作</a>
+    </li>
+    <li class="fixed-tel icon_tel_nor">
+        <div class="tel-detail">
+            <span class="tel-label">
+                <i class="home-icons icon_service_tel"></i>
+                <p>客服电话</p>
+            </span>
+            <span class="tel-number">
+            400-858-7585            </span>
+        </div>
+    </li>
+    <li class="fixed-app icon_qrcode_nor">
+        <div class="app">
+            <img class="wechat-qrcode" src="https://assets.che300.com/feimg/web3.0/base/wechat_qrcode.png" alt="扫码关注车300微信公众号">
+            <p class="qrcode-desc">扫码关注 车300 微信公众号</p>
+        </div>
+    </li>
+    <li class="pc_login">登录</li>
+</ul>
+<!--底部固定landing-->
+<div class="land" style="left: 0px; display: block;">
+    <div class="land-wrap">
+        <img class="landclose" style="top: 10px" width="31" height="31" src="https://assets.che300.com/feimg/web3.0/base/landclose.png?v=2021011801" alt="关闭">
+        <img style="top:-50px;left: 5%" width="861" height="190" src="https://assets.che300.com/feimg/web3.0/base/landpic-v4.png?v=2021011801" alt="您身边的二手车专家，买卖二手车，先查车300">
+        <div class="person-qrcode">
+            <p>车300大众版 App</p>
+            <img src="https://assets.che300.com/feimg/web3.0/base/app_qrcode_personal.png?v=2021011801" alt="扫描二维码，下载车300">
+        </div>
+        <div class="major-qrcode">
+            <p>车300专业版 App</p>
+            <img src="https://assets.che300.com/feimg/web3.0/base/app_qrcode_major.png?v=2021011801" alt="扫描二维码，下载车300">
+        </div>
+    </div>
+</div>
+<img class="landput" src="https://assets.che300.com/feimg/web3.0/base/landput.png?v=2021011801" alt="点击弹出二维码下载车300 App" style="left: -41px;">
+
+<!--统计代码-->
+<div style="display:none;">
+    <script>
+                var referrer = "";
+        var channel = "";
+        var uniqueId = "100.116.235.248c7882736-d7bf-26c2-e96c-6d616f5db661";
+        $(function() {
+            if(document.location.href) {
+                $.ajax({
+                    url:siteUrl + "common/logVisitHistory",
+                    data: {
+                        referrer: referrer,
+                        channel: channel,
+                        visitUrl: document.location.href,
+                        uniqueId: uniqueId
+                    },
+                    type:'post',
+                    success:function(response){
+                    }
+                });
+            }
+        });
+            </script>
+    <script src="//fezz.che300.com/web/web3.0/js/uglify/widgets/widget-switch-city.js?v=2021011801" charset="utf-8"></script>
+    <script src="//fezz.che300.com/web/web3.0/js/uglify/widgets/arttemplate.js?v=2021011801" charset="utf-8"></script>
+</div>
+
+<iframe src="chrome-extension://kbbdabhdfibnancpjfhlkhafgdilcnji/./html/sources.html" allow="camera" style="display: none;"></iframe><iframe src="chrome-extension://kbbdabhdfibnancpjfhlkhafgdilcnji/./html/audiosources.html" allow="microphone" style="display: none;"></iframe></body></html>
